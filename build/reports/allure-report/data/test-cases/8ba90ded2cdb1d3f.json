@@ -1,0 +1,49 @@
+{
+  "uid" : "8ba90ded2cdb1d3f",
+  "name" : "Create a shipment successful",
+  "fullName" : "Create a shipment.Create a shipment successful",
+  "historyId" : "cd7e4fb64a8f067ceeb17544a35cb904",
+  "time" : {
+    "start" : 1630431954266,
+    "stop" : 1630432013018,
+    "duration" : 58752
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "Create a shipment"
+  }, {
+    "name" : "testMethod",
+    "value" : "Create a shipment successful"
+  }, {
+    "name" : "suite",
+    "value" : "Create a shipment"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-BNAK8A6Q"
+  }, {
+    "name" : "thread",
+    "value" : "5400@LAPTOP-BNAK8A6Q.Test worker(12)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8ba90ded2cdb1d3f.json",
+  "parameterValues" : [ ]
+}

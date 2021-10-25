@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-BNAK8A6Q",
+    "children" : [ {
+      "name" : "5400@LAPTOP-BNAK8A6Q.Test worker(12)",
+      "children" : [ {
+        "name" : "Create a shipment successful",
+        "uid" : "8ba90ded2cdb1d3f",
+        "parentUid" : "d18331b077995a48bf8d2f2b39574e07",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630431954266,
+          "stop" : 1630432013018,
+          "duration" : 58752
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d18331b077995a48bf8d2f2b39574e07"
+    } ],
+    "uid" : "cd0a17397130cc8b8e564347943aad25"
+  } ]
+}

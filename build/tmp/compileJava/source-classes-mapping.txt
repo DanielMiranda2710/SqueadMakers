@@ -1,0 +1,28 @@
+com/shipment/automation/models/DataTableInjection.java
+ com.shipment.automation.models.DataTableInjection
+com/shipment/automation/pageobjects/HomePage.java
+ com.shipment.automation.pageobjects.HomePage
+com/shipment/automation/models/DataInjection.java
+ com.shipment.automation.models.DataInjection
+com/shipment/automation/pageobjects/PurchasePage.java
+ com.shipment.automation.pageobjects.PurchasePage
+com/shipment/automation/pageobjects/CartPage.java
+ com.shipment.automation.pageobjects.CartPage
+com/shipment/automation/pageobjects/CheckoutPage.java
+ com.shipment.automation.pageobjects.CheckoutPage
+com/shipment/automation/steps/CartSteps.java
+ com.shipment.automation.steps.CartSteps
+com/shipment/automation/steps/PurchaseSteps.java
+ com.shipment.automation.steps.PurchaseSteps
+com/shipment/automation/utils/SpecialMethods.java
+ com.shipment.automation.utils.SpecialMethods
+com/shipment/automation/steps/HomeDataTableSteps.java
+ com.shipment.automation.steps.HomeDataTableSteps
+com/shipment/automation/steps/HomeHideCredentialsSteps.java
+ com.shipment.automation.steps.HomeHideCredentialsSteps
+com/shipment/automation/steps/OrderCompleteSteps.java
+ com.shipment.automation.steps.OrderCompleteSteps
+com/shipment/automation/pageobjects/OrderCompletePage.java
+ com.shipment.automation.pageobjects.OrderCompletePage
+com/shipment/automation/steps/CheckoutSteps.java
+ com.shipment.automation.steps.CheckoutSteps

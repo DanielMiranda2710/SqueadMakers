@@ -1,0 +1,11 @@
+[ {
+  "uid" : "8ba90ded2cdb1d3f",
+  "name" : "Create a shipment successful",
+  "time" : {
+    "start" : 1630431954266,
+    "stop" : 1630432013018,
+    "duration" : 58752
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

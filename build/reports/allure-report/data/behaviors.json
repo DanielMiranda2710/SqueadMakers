@@ -1,0 +1,17 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Create a shipment successful",
+    "uid" : "8ba90ded2cdb1d3f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1630431954266,
+      "stop" : 1630432013018,
+      "duration" : 58752
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}

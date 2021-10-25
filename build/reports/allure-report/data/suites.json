@@ -1,0 +1,21 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Create a shipment",
+    "children" : [ {
+      "name" : "Create a shipment successful",
+      "uid" : "8ba90ded2cdb1d3f",
+      "parentUid" : "7a8f5c12b6606bd87313b76947a15c60",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630431954266,
+        "stop" : 1630432013018,
+        "duration" : 58752
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "7a8f5c12b6606bd87313b76947a15c60"
+  } ]
+}
